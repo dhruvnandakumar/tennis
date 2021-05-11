@@ -21,4 +21,4 @@ You will also have to install some python depencies:
 
 ## 3 Instructions 
 
-Place the download in this repository in the root folder, and follow along with the continuois_control.ipynb Jupyter Notebook. 
+Place the download in this repository in the root folder, and follow along with the tennis.ipynb Jupyter Notebook. 
